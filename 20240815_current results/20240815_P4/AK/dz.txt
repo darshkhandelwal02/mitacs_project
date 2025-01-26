@@ -1,0 +1,18 @@
+% Model:              spheroid_magnet_displacment.mph
+% Version:            COMSOL 6.2.0.290
+% Date:               Aug 19 2024, 17:33
+% Dimension:          1
+% Nodes:              10
+% Expressions:        1
+% Description:        Global
+% x                       Electromagnetic force, z-component, Electromagnetic force, y-component
+500                       -2.0993669403968477E-9
+250                       -1.0472195538674522E-9
+0                         1.11765177835113E-14
+-250                      1.0505799313730898E-9
+-500                      2.0983052443272467E-9
+500                       1.565055022697691E-11
+250                       2.113323361359523E-12
+0                         1.111295752716127E-14
+-250                      6.803983475818575E-14
+-500                      1.651477220323656E-11
